@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Haile Fikere Hassen (haile17) ⛵️ Thank you for visiting my profile!! 😆
 
-I'm from East Africa, Ethiopia :ethiopia:
+I'm from East Africa, Ethiopia 🇪🇹
 
 - 🏫 I finished my first Bachelor degree at the university of Ambo institute of technology, Ambo, Ethiopia 
 - 🌱 My major is  Civil Engineering  
