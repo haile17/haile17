@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**haile17/haile17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, I'm Haile Fikere Hassen (haile17) ⛵️ Thank you for visiting my profile!! 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from East Africa, Ethiopia 🇪🇹 Flag: Ethiopia
+
+- 🏫 I finished my first Bachelor degree at the university of Ambo institute of technology, Ambo, Ethiopia 
+- 🌱 My major is  Civil Engineering  
+- 🔭 I’m currently working at Commercial Banks of Ethiopia as a Junior Civil Engineer 
+
+- 🌱 I’m currently learning  software engineering at alx-africa [www.alx-africa.com],
+with the aim of becoming a front- end developer and graphics designer 
+
+- 📫 How to reach me: here is my email [hailefikere17@gmail.com], you came contact me at any time. ..
